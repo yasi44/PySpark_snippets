@@ -1,4 +1,4 @@
-# PySpark_snippsts
+# PySpark_snippets
 
 
 
